@@ -1,4 +1,4 @@
-# wwek1
+# week1
 ödev1
 Sıralama şu şekildedir 
 
