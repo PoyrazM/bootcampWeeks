@@ -1,4 +1,4 @@
-# homework1
+# wwek1
 ödev1
 Sıralama şu şekildedir 
 
@@ -8,13 +8,13 @@ StudentTicketPriceManager ,
 AdultTicketPriceManager ,
 Main .
 
-# homework2
+# week2
 
 ### "https://demoqa.com/webtables" adresine giderek , o adreste search arama kutucuğunun olup olmadığını doğrulama otomasyonu , JUnit assertion özelliği kullanılarak.
 
 ### Sıralama ; DriverSetUp , SearchBoxTest şeklindedir.
 
-# homework3
+# week3
 
 ## Ödevde oluşturulan classlar src/main/java ve src/test/java paketlerinin içerisindedir.
 
